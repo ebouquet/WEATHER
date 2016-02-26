@@ -9,6 +9,8 @@ Download [Processing](www.processing.org/) and install it.
 
 Download WEATHER.zip & unzip it.
 
+Rename WEATHER-master/WEATHER-master in WEATHER-master/WEATHER
+
 Double-click on WEATHER.pde
 
 Enjoy !
